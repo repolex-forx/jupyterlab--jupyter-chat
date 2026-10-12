@@ -1,0 +1,11 @@
+{
+  "org": "jupyterlab",
+  "repo": "jupyter-chat",
+  "versions": [
+    {
+      "commit": "977488a70758d684378041c7a5acc53a5bc3fa2a",
+      "tag": "",
+      "parsed_at": "2026-10-12T05:28:24.159595+00:00"
+    }
+  ]
+}
